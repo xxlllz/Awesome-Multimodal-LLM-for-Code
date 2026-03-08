@@ -497,7 +497,3 @@ This is an active repository and your contributions are always welcome! Before y
 - The paper should be inserted in the correct position in chronological order (publication/arxiv release time).
 - The link to paper should be the arxiv page, not the pdf page if this is a paper posted on arxiv.
 - If the paper is accpeted, please use the correct publication venue instead of arxiv.
-
-# 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=xjywhu/Awesome-Multimodal-LLM-for-Code&type=Date)](https://www.star-history.com/#xjywhu/Awesome-Multimodal-LLM-for-Code&Date)
