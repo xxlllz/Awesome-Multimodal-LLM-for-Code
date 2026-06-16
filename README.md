@@ -44,7 +44,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
       - [8. CAD code generation](#8-CAD-code-generation)
       - [9. Poster code generation](#9-Poster-code-generation)
       - [10. Multimodal document generation](#10-Multimodal-document-generation)
-      - [11. 3D point clouds code generation](#11-3D-point-code-generation)
+      - [11. 3D code generation](#11-3D-point-code-generation)
       - [12. Game](#12-game)
       - [13. Code for MLLM's Image Understanding](#13-code-for-MLLM's-image-understanding)
       - [14. General](#14-General)
@@ -79,8 +79,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 7. [**Prototype2Code: End-to-end Front-end Code Generation from UI Design Prototypes**](https://arxiv.org/abs/2405.04975) *Shuhong Xiao, Yunnong Chen, Jiazhi Li, Liuqing Chen, Lingyun Sun, Tingting Zhou
 .* Arxiv 2024.
 
-8. [**Bridging Design and Development with Automated Declarative UI Code Generation**](https://arxiv.org/abs/2409.11667) *Ting Zhou, Yanjie Zhao, Xinyi Hou, Xiaoyu Sun, Kai Chen, Haoyu Wang
-.* Arxiv 2024.(FSE 2025)
+8. [**Bridging Design and Development with Automated Declarative UI Code Generation**](https://arxiv.org/abs/2409.11667) *Ting Zhou, Yanjie Zhao, Xinyi Hou, Xiaoyu Sun, Kai Chen, Haoyu Wang.* Arxiv 2024.(FSE 2025)
 
 9. [**Sketch2Code: Evaluating Vision-Language Models for Interactive Web Design Prototyping**](https://arxiv.org/abs/2410.16232) *Ryan Li, Yanzhe Zhang, Diyi Yang .* Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SALT-NLP/Sketch2Code)](https://github.com/SALT-NLP/Sketch2Code)
 
@@ -142,14 +141,14 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 33. [**UI-Bench: A Benchmark for Evaluating Design Capabilities of AI Text-to-App Tools**](https://arxiv.org/abs/2508.20410) *Sam Jung, Agustin Garcinuno, Spencer Mateega.* Arxiv 2025.8.28.
 
-34. [**EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression**](https://arxiv.org/abs/2509.12159) *Jingyu Xiao, Zhongyi Zhang, Yuxuan Wan, Yintong Huo, Yang Liu, Michael R.Lyu.* Arxiv 2025.9.15. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WebPAI/EfficientUICoder)](https://github.com/WebPAI/EfficientUICoder)
+34. [**EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression**](https://arxiv.org/abs/2509.12159) *Jingyu Xiao, Zhongyi Zhang, Yuxuan Wan, Yintong Huo, Yang Liu, Michael R.Lyu.* Arxiv 2025.9.15 (FSE 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WebPAI/EfficientUICoder)](https://github.com/WebPAI/EfficientUICoder)
  
 35. [**WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning**](https://arxiv.org/pdf/2509.22644) *Zimu Lu, Houxing Ren, Yunqiao Yang, Ke Wang, Zhuofan Zong, Junting Pan, Mingjie Zhan, Hongsheng Li.* Arxiv 2025.9.26. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mnluzimu/WebGen-Agent)](https://github.com/mnluzimu/WebGen-Agent)
 
 
 36. [**UI-UG: A Unified MLLM for UI Understanding and Generation**](https://arxiv.org/abs/2509.24361) *Hao Yang, Weijie Qiu, Ru Zhang, Zhou Fang, Ruichao Mao, Xiaoyu Lin, Maji Huang, Zhaosong Huang, Teng Guo, Shuoyang Liu, Hai Rao.* Arxiv 2025.9.29. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/neovateai/UI-UG)](https://github.com/neovateai/UI-UG)
  
-37. [**IWR-Bench: Can LVLMs reconstruct interactive webpage from a user interaction video?**](https://arxiv.org/pdf/2509.22644) *Yang Chen, Minghao Liu, Yufan Shen, Yunwen Li, Tianyuan Huang, Xinyu Fang, Tianyu Zheng, Wenxuan Huang, Cheng Yang, Daocheng Fu, Jianbiao Mei, Rong Wu, Licheng Wen, Xuemeng Yang, Song Mao, Qunshu Lin, Zhi Yu, Yongliang Shen, Yu Qiao, Botian Shi.* Arxiv 2025.9.29. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/L-O-I/IWR-Bench)](https://github.com/L-O-I/IWR-Bench)
+37. [**IWR-Bench: Can LVLMs reconstruct interactive webpage from a user interaction video?**](https://arxiv.org/pdf/2509.22644) *Yang Chen, Minghao Liu, Yufan Shen, Yunwen Li, Tianyuan Huang, Xinyu Fang, Tianyu Zheng, Wenxuan Huang, Cheng Yang, Daocheng Fu, Jianbiao Mei, Rong Wu, Licheng Wen, Xuemeng Yang, Song Mao, Qunshu Lin, Zhi Yu, Yongliang Shen, Yu Qiao, Botian Shi.* Arxiv 2025.9.29 (ICLR 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/L-O-I/IWR-Bench)](https://github.com/L-O-I/IWR-Bench)
 
 38. [**Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development**](https://www.arxiv.org/abs/2509.25297) *Yuxuan Wan, Tingshuo Liang, Jiakai Xu, Jingyu Xiao, Yintong Huo, Michael R. Lyu.* Arxiv 2025.9.29. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yxwan123/TDDev)](https://github.com/yxwan123/TDDev)
 
@@ -178,7 +177,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 48.  [**FronTalk: Benchmarking Front-End Development as Conversational Code Generation with Multi-Modal Feedback**](https://arxiv.org/abs/2601.04203)*Xueqing Wu, Zihan Xue, Da Yin, Shuyan Zhou, Kai-Wei Chang, Nanyun Peng, Yeming Wen* Arxiv 2025.12.05. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/shirley-wu/frontalk)](https://github.com/shirley-wu/frontalk)
 
-49. [**Widget2Code: From Visual Widgets to UI Code via Multimodal LLMs**](https://arxiv.org/abs/2511.20737)*Houston H. Zhang, Tao Zhang, Baoze Lin, Yuanqi Xue, Yincheng Zhu, Huan Liu, Li Gu, Linfeng Ye, Ziqiang Wang, Xinxin Zuo, Yang Wang, Yuanhao Yu, Zhixiang Chi* Arxiv 2025.12.22. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/Djanghao/widget2code)](https://github.com/Djanghao/widget2code)
+49. [**Widget2Code: From Visual Widgets to UI Code via Multimodal LLMs**](https://arxiv.org/abs/2512.19918)*Houston H. Zhang, Tao Zhang, Baoze Lin, Yuanqi Xue, Yincheng Zhu, Huan Liu, Li Gu, Linfeng Ye, Ziqiang Wang, Xinxin Zuo, Yang Wang, Yuanhao Yu, Zhixiang Chi* Arxiv 2025.12.22 (CVPR 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/stars/Djanghao/widget2code)](https://github.com/Djanghao/widget2code)
 
 50. [**WebCoderBench: Benchmarking Web Application Generation with Comprehensive and Interpretable Evaluation Metrics**](https://web3.arxiv.org/abs/2601.02430)*Chenxu Liu, Yingjie Fu, Wei Yang, Ying Zhang, Tao Xie* Arxiv 2026.01.05.
 
@@ -192,14 +191,25 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 55. [**1D-Bench: A Benchmark for Iterative UI Code Generation with Visual Feedback in Real-World**](https://arxiv.org/abs/2602.18548)*Qiao Xu, Yipeng Yu, Chengxiao Feng, Xu Liu* Arxiv 2026.02.20.
 
-56. [**ComUICoder: Component-based Reusable UI Code Generation for Complex Websites via Semantic Segmentation and Element-wise Feedback**](https://arxiv.org/abs/2602.19276)*Jingyu Xiao, Jiantong Qin, Shuoqi Li, Man Ho Lam, Yuxuan Wan, Jen-tse Huang, Yintong Huo, Michael R. Lyu* Arxiv 2026.02.22.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/WebPAI/ComUICoder)](https://github.com/WebPAI/ComUICoder)
+56. [**ComUICoder: Component-based Reusable UI Code Generation for Complex Websites via Semantic Segmentation and Element-wise Feedback**](https://arxiv.org/abs/2602.19276)*Jingyu Xiao, Jiantong Qin, Shuoqi Li, Man Ho Lam, Yuxuan Wan, Jen-tse Huang, Yintong Huo, Michael R. Lyu* Arxiv 2026.02.22. (KDD 2026) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/WebPAI/ComUICoder)](https://github.com/WebPAI/ComUICoder)
 
 57. [**𝐿𝑖𝑘𝑒𝑇ℎ𝑖𝑠! Empowering App Users to Submit UI Improvement Suggestions Instead of Complaints**](https://arxiv.org/abs/2603.04245)*Jialiang Wei, Ali Ebrahimi Pourasad, Walid Maalej* Arxiv 2026.03.04.
 
+58. [**No Code, No Cloud: On-Device Mockup-to-Code withLightweight Vision-Language AI**](https://dl.acm.org/doi/full/10.1145/3742413.3789144)*Abinas Kuganathan, Mitra Purandare, Markus Stolze* 2026.03.22 (IUI 2026).
 
+59. [**AutoStructGUI: Bridging Design and Implementation of GUI through Structured Layout Generation**](https://dl.acm.org/doi/full/10.1145/3742413.3789058)*Junquan Ren, Pengfei Xu* 2026.03.22 (IUI 2026).
 
+60. [**Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification**](https://dl.acm.org/doi/full/10.1145/3742413.3789058)*Zehai He, Wenyi Hong, Zhen Yang, Ziyang Pan, Mingdao Liu, Xiaotao Gu, Jie Tang* 2026.03.27
 
+61. [**MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation**](https://arxiv.org/abs/2604.15309)*Yan Li, Zezi Zeng, Yifan Yang, Yuqing Yang, Ning Liao, Weiwei Guo, Lili Qiu, Mingxi Cheng, Qi Dai, Zhendong Wang, Zhengyuan Yang, Xue Yang, Ji Li, Lijuan Wang, Chong Luo* 2026.04.16. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/microsoft/MM-WebAgent)](https://github.com/microsoft/MM-WebAgent)
 
+62. [**WebCompass: Towards Multimodal Web Coding Evaluation for Code Language Models**](https://arxiv.org/abs/2604.18224)*Xinping Lei, Xinyu Che, Junqi Xiong, Chenchen Zhang, Yukai Huang, Chenyu Zhou, Haoyang Huang, Minghao Liu, Letian Zhu, Hongyi Ye, Jinhua Hao, Ken Deng, Zizheng Zhan, Han Li, Dailin Li, Yifan Yao, Ming Sun, Zhaoxiang Zhang, Jiaheng Liu* 2026.04.20. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/NJU-LINK/WebCompass)](https://github.com/NJU-LINK/WebCompass)
+
+63. [**Benchmarking Multimodal LLMs on Code Generation for Complex Interactive Webpages**](https://arxiv.org/abs/2606.00154)*Fan Wu, Lishuai Dong, Cuiyun Gao, Yujia Chen, Yiming Huang, Yang Xiao, Qing Liao* 2026.05.29.
+
+64. [**I-WebGenBench: Evaluating Interactivity in LLM-Generated Scientific Web Applications**](https://arxiv.org/abs/2606.00750)*Dasen Dai, Biao Wu, Meng Fang, Shuoqi Li, Wenhao Wang* 2026.05.30.
+
+65. [**ProductWebGen: Benchmarking Multimodal Product Webpage Generation**](https://arxiv.org/abs/2604.18224)*Zhihong Liu, Siqi Kou, Zheng Li, Ye Ma, Quan Chen, Peng Jiang, Kai Yu, Zhijie Deng* 2026.05.31.（KDD 2026） &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [![GitHub Repo stars](https://img.shields.io/github/SJTU-DENG-Lab/ProductWebGen)](https://github.com/SJTU-DENG-Lab/ProductWebGen)
 
 
 ## 2. Scientific Plots Code Generation
@@ -252,7 +262,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 19. [**Effective Training Data Synthesis for Improving MLLM Chart Understanding.**](https://arxiv.org/abs/2508.06492) Yuwei Yang, Zeyu Zhang, Yunzhong Hou, Zhuowan Li, Gaowen Liu, Ali Payani, Yuan-Sen Ting, Liang Zheng. Arxiv 2025.8.8. (ICCV 2025) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yuweiyang-anu/ECD)](https://github.com/yuweiyang-anu/ECD)
 
 
-20. [**Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation.**](https://arxiv.org/abs/2508.06492) Lei Chen, Xuanle Zhao, Zhixiong Zeng, Jing Huang, Liming Zheng, Yufeng Zhong, Lin Ma. Arxiv 2025.8.19. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DocTron-hub/MSRL)](https://github.com/DocTron-hub/MSRL)
+20. [**Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation.**](https://arxiv.org/abs/2508.06492) Lei Chen, Xuanle Zhao, Zhixiong Zeng, Jing Huang, Liming Zheng, Yufeng Zhong, Lin Ma. Arxiv 2025.8.19 (ICLR 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DocTron-hub/MSRL)](https://github.com/DocTron-hub/MSRL)
 
 21. [**ChartMaster: Advancing Chart-to-Code Generation with Real-World Charts and Chart Similarity Reinforcement Learning.**](https://arxiv.org/abs/2508.17608) Wentao Tan, Qiong Cao, Chao Xue, Yibing Zhan, Changxing Ding, Xiaodong He. Arxiv 2025.8.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/WentaoTan/ChartMaster)](https://github.com/WentaoTan/ChartMaster)
 
@@ -265,7 +275,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 25. [**ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models**](https://arxiv.org/abs/2602.15758) Manav Nitin Kapadnis, Lawanya Baghel, Atharva Naik, Carolyn Rosé. Arxiv 2026.02.17.
 
-
+26. [**MM-ReCoder: Advancing Chart-to-Code Generation with Reinforcement Learning and Self-Correction.**](https://arxiv.org/abs/2510.17932) Zitian Tang, Xu Zhang, Jianbo Yuan, Yang Zou, Varad Gunjal, Songyao Jiang, Davide Modolo. Arxiv 2026.04.02. (CVPR 2026) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## 3. Visually Rich Programming and Math
@@ -317,7 +327,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 8. [**SVGBuilder: Component-Based Colored SVG Generation with Text-Guided Autoregressive Transformers.**](https://arxiv.org/abs/2504.06263) *Zehao Chen, Rong Pan.* Arxiv 2025.12.13.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/amcghm/ColorSVG-100K)](https://github.com/amcghm/ColorSVG-100K)
 
-9. [**Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation.**](https://arxiv.org/abs/2505.24499) *Ximing Xing, Yandong Guan, Jing Zhang, Dong Xu, Qian Yu.* Arxiv 2025.5.30.
+9. [**Reason-SVG: Hybrid Reward RL for Aha-Moments in Vector Graphics Generation.**](https://arxiv.org/abs/2505.24499) *Ximing Xing, Yandong Guan, Jing Zhang, Dong Xu, Qian Yu.* Arxiv 2025.5.30 (CVPR 2026).
 
 10. [**SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation.**](https://arxiv.org/abs/2504.06263) *Siqi Chen, Xinyu Dong, Haolei Xu, Xingyu Wu, Fei Tang, Hang Zhang, Yuchen Yan, Linjuan Wu, Wenqi Zhang, Guiyang Hou, Yongliang Shen, Weiming Lu, Yueting Zhuang.* Arxiv 2025.6.3. (MM 2025) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ZJU-REAL/SVGenius)](https://github.com/ZJU-REAL/SVGenius)
 
@@ -329,6 +339,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 14. [**Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure.**](https://arxiv.org/abs/2512.14336) *Jooyeol Yun, Jaegul Choo.* Arxiv 2025.12.16. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/YeolJ00/vector-prism)](https://github.com/YeolJ00/vector-prism)
 
+15. [**Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning.**](https://arxiv.org/abs/2512.14336) *Haomin Wang, Qi Wei, Qianli Ma, Shengyuan Ding, Jinhui Yin, Kai Chen, Hongjie Zhang.* Arxiv 2026.03.17. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/hmwang2002/CTRL-S)](https://github.com/hmwang2002/CTRL-S)
+
 
 
 ## 5. Slide && Presentation Generation
@@ -339,7 +351,8 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 2. [**PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides.**](https://arxiv.org/abs/2501.03936) *Hao Zheng, Xinyan Guan, Hao Kong, Jia Zheng, Hongyu Lin, Yaojie Lu, Ben He, Xianpei Han, Le Sun
 .* Arxiv 2025. [![GitHub Repo stars](https://img.shields.io/github/stars/icip-cas/PPTAgent)](https://github.com/icip-cas/PPTAgent)
 
-3. [**Talk to Your Slides: Language-Driven Agents for Efficient Slide Editing.**](https://arxiv.org/abs/2505.11604) *Kyudan Jung, Hojun Cho, Jooyeol Yun, Soyoung Yang, Jaehyeok Jang, Jaegul Choo.* Arxiv 2025.5.16 (https://anonymous.4open.science/r/Talk-to-Your-Slides-0F4C)
+3. [**Talk to Your Slides: Language-Driven Agents for Efficient Slide Editing.**](https://arxiv.org/abs/2505.11604) *Kyudan Jung, Hojun Cho, Jooyeol Yun, Soyoung Yang, Jaehyeok Jang, Jaegul Choo.* Arxiv 2025.5.16 [![GitHub Repo stars](https://img.shields.io/github/stars/KyuDan1/Talk-to-Your-Slides)](https://github.com/KyuDan1/Talk-to-Your-Slides)
+
 
 4. [**PreGenie: An Agentic Framework for High-quality Visual Presentation.**](https://arxiv.org/abs/2505.21660) *Xiaojie Xu, Xinli Xu, Sirui Chen, Haoyu Chen, Fan Zhang, Ying-Cong Chen
 .* Arxiv 2025.5.27.
@@ -390,7 +403,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 3. [**CodeV: Issue Resolving with Visual Data**](https://arxiv.org/abs/2412.17315) *Linhao Zhang, Daoguang Zan, Quanshun Yang, Zhirong Huang, Dong Chen, Bo Shen, Tianyu Liu, Yongshun Gong, Pengjie Huang, Xudong Lu, Guangtai Liang, Lizhen Cui, Qianxiang Wang .* Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/luolin101/CodeV)](https://github.com/luolin101/CodeV)
 
-4. [**Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing**](https://www.arxiv.org/abs/2506.16136) *Kai Huang, Jian Zhang, Xiaofei Xie, Chunyang Chen .* Arxiv 2025.6.19.
+4. [**Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing**](https://www.arxiv.org/abs/2506.16136) *Kai Huang, Jian Zhang, Xiaofei Xie, Chunyang Chen .* Arxiv 2025.6.19 (ASE 2025).
 
 5. [**SVRepair: Structured Visual Reasoning for Automated Program Repair**](https://arxiv.org/abs/2602.06090) *Xiaoxuan Tang, Jincheng Wang, Liwei Luo, Jingxuan Xu, Sheng Zhou, Dajun Chen, Wei Jiang, Yong Li.* Arxiv 2026.02.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/codefuse-ai/CodeFuse-SVR)](https://github.com/codefuse-ai/CodeFuse-SVR)
 
@@ -412,7 +425,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 
 2. [**CADReview: Automatically Reviewing CAD Programs with Error Detection and Correction**](https://arxiv.org/abs/2505.22304) *Jiali Chen, Xusen Hei, HongFei Liu, Yuancheng Wei, Zikun Deng, Jiayuan Xie, Yi Cai, Li Qing .* Arxiv 2025.05.28 (ACL 2025 Main Oral). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Gary-code/CADReview)](https://github.com/Gary-code/CADReview)
 
-3. [**CAD-Coder: Text-to-CAD Generation with Chain-of-Thought and Geometric Reward**](https://arxiv.org/abs/2505.19713) *Jiali Chen, Xusen Hei, HongFei Liu, Yuancheng Wei, Zikun Deng, Jiayuan Xie, Yi Cai, Li Qing .* Arxiv 2025.05.30.
+3. [**CAD-Coder: Text-to-CAD Generation with Chain-of-Thought and Geometric Reward**](https://arxiv.org/abs/2505.19713) *Jiali Chen, Xusen Hei, HongFei Liu, Yuancheng Wei, Zikun Deng, Jiayuan Xie, Yi Cai, Li Qing .* Arxiv 2025.05.30 (NeurIPS 2025).
 
 4. [**CME-CAD: Heterogeneous Collaborative Multi-Expert Reinforcement Learning for CAD Code Generation**](https://arxiv.org/abs/2512.23333) *Ke Niu, Haiyang Yu, Zhuofan Chen, Zhengtao Yao, Weitao Jia, Xiaodong Ge, Jingqun Tang, Benlei Cui, Bin Li, Xiangyang Xue.* Arxiv 2025.12.29.
 
@@ -423,6 +436,7 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 1. [**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**](https://arxiv.org/abs/2505.21497) *Wei Pang, Kevin Qinghong Lin, Xiangru Jian, Xi He, Philip Torr .* Arxiv 2025.05.27. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Paper2Poster/Paper2Poster)](https://github.com/Paper2Poster/Paper2Poster)
 2. [**P2P: Automated Paper-to-Poster Generation and Fine-Grained Benchmark**](https://arxiv.org/abs/2505.17104) *Tao Sun, Enhao Pan, Zhengkai Yang, Kaixin Sui, Jiajun Shi, Xianfu Cheng, Tongliang Li, Wenhao Huang, Ge Zhang, Jian Yang, Zhoujun Li.* Arxiv 2025.05.21. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/multimodal-art-projection/P2P)](https://github.com/multimodal-art-projection/P2P)
 3. [**PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent LLMs**](https://arxiv.org/abs/2508.17188) *Zhilin Zhang, Xiang Zhang, Jiaqi Wei, Yiwei Xu, Chenyu You.* Arxiv 2025.08.24. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Y-Research-SBU/PosterGen)](https://github.com/Y-Research-SBU/PosterGen)
+4. [**EfficientPosterGen: Semantic-aware Efficient Poster Generation via Token Compression and Accurate Violation Detection**](https://arxiv.org/abs/2603.00155) *Wenxin Tang, Jingyu Xiao, Yanpei Gong, Fengyuan Ran, Tongchuan Xia, Junliang Liu, Man Ho Lam, Wenxuan Wang, Michael R. Lyu.* Arxiv 2026.02.25. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/vinsontang1/EfficientPosterGen-Code)](https://github.com/vinsontang1/EfficientPosterGen-Code)
 
 
 
@@ -433,11 +447,14 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 2. [**Multimodal DeepResearcher: Generating Text-Chart Interleaved Reports From Scratch with Agentic Framework**](https://arxiv.org/abs/2506.02454) *Zhaorui Yang, Bo Pan, Han Wang, Yiyao Wang, Xingyu Liu, Minfeng Zhu, Bo Zhang, Wei Chen.* Arxiv 2025.06.03.
 
 
-## 11. 3D point clouds code generation
+## 11. 3D code generation
 
 1. [**Real2Code: Reconstruct Articulated Objects via Code Generation**](https://arxiv.org/abs/2406.08474) *Zhao Mandi, Yijia Weng, Dominik Bauer, Shuran Song.* Arxiv 2024.06.12. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/MandiZhao/real2code)](https://github.com/MandiZhao/real2code)
 
 2. [**MeshCoder: LLM-Powered Structured Mesh CodeGeneration from Point Clouds**](https://arxiv.org/abs/2508.14879v1) *Bingquan Dai, Li Ray Luo, Qihong Tang, Jie Wang, Xinyu Lian, Hao Xu, Minghan Qin, Xudong Xu, Bo Dai, Haoqian Wang, Zhaoyang Lyu, Jiangmiao Pang.* Arxiv 2025.08.20. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/InternRobotics/MeshCoder)](https://github.com/InternRobotics/MeshCoder)
+
+3. [**WorldCoder-Bench: Benchmarking Physically Grounded 3D World Synthesis**](https://arxiv.org/abs/2606.01869) *Shuo Lu, Yinuo Xu, Kecheng Yu, Siru Jiang, Yongcan Yu, Yubin Wang, Haitao Yang, Yuxiang Zhang, Bin Wang, Ran He, Jian Liang.* Arxiv 2026.06.01.
+
 
 
 ## 12. Game
@@ -445,6 +462,13 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 1. [**V-GameGym: Visual Game Generation for Code Large Language Models**](https://arxiv.org/abs/2509.20136) *Wei Zhang, Jack Yang, Renshuai Tao, Lingzheng Chai, Shawn Guo, Jiajun Wu, Xiaoming Chen, Ganqu Cui, Ning Ding, Xander Xu, Hu Wei, Bowen Zhou.* Arxiv 2025.09.24. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SKYLENAGE-GameCodeGym)](http://github.com/alibaba/SKYLENAGE-GameCodeGym)
 
 2. [**90% Faster, 100% Code-Free: MLLM-Driven Zero-Code 3D Game Development**](https://arxiv.org/abs/2509.26161) *Runxin Yang, Yuxuan Wan, Shuqing Li, Michael R. Lyu.* Arxiv 2025.09.24. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/yxwan123/UniGen)](https://github.com/yxwan123/UniGen)
+
+3. [**GameUIAgent: An LLM-Powered Framework for Automated Game UI Design with Structured Intermediate Representation**](https://arxiv.org/abs/2603.14724) *Wei Zeng, Fengwei An, Zhen Liu, Jian Zhao.* Arxiv 2026.03.16.
+
+4. [**OpenGame: Open Agentic Coding for Games**](https://arxiv.org/abs/2604.18394) *Yilei Jiang, Jinyuan Hu, Qianyin Xiao, Yaozhi Zheng, Ruize Ma, Kaituo Feng, Jiaming Han, Tianshuo Peng, Kaixuan Fan, Manyuan Zhang, Xiangyu Yue.* Arxiv 2026.04.20. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/leigest519/OpenGame)](https://github.com/leigest519/OpenGame)
+
+5. [**PlayCoder: Making LLM-Generated GUI Code Playable**](https://arxiv.org/abs/2604.19742) *Zhiyuan Peng, Wei Tao, Xin Yin, Chenhao Ying, Yuan Luo, Yiwen Guo.* Arxiv 2026.04.21. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/PlayCoder)](https://github.com/Tencent/PlayCoder)
+
 
 
 ## 13. Code for MLLM's Image Understanding
@@ -482,12 +506,16 @@ This repo includes papers about methods, benchmarks and evaluation for code gene
 10. [**VisCoder2: Building Multi-Language Visualization Coding Agents**](https://arxiv.org/abs/2510.23642) *Yuansheng Ni, Songcheng Cai, Xiangchao Chen, Jiarong Liang, Zhiheng Lyu, Jiaqi Deng, Kai Zou, Ping Nie, Fei Yuan, Xiang Yue, Wenhu Chen* Arxiv 2025.10.24. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/VisCoder2)](https://github.com/TIGER-AI-Lab/VisCoder2)
 
 
-11. [**JanusCoder: Towards a Foundational Visual-Programmatic Interface for Code Intelligence**](https://arxiv.org/abs/2510.23538) *Qiushi Sun, Jingyang Gong, Yang Liu, Qiaosheng Chen, Lei Li, Kai Chen, Qipeng Guo, Ben Kao, Fei Yuan.* Arxiv 2025.10.27. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/JanusCoder)](https://github.com/InternLM/JanusCoder)
+11. [**JanusCoder: Towards a Foundational Visual-Programmatic Interface for Code Intelligence**](https://arxiv.org/abs/2510.23538) *Qiushi Sun, Jingyang Gong, Yang Liu, Qiaosheng Chen, Lei Li, Kai Chen, Qipeng Guo, Ben Kao, Fei Yuan.* Arxiv 2025.10.27 (ICLR 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/JanusCoder)](https://github.com/InternLM/JanusCoder)
 
 12. [**VinciCoder: Unifying Multimodal Code Generation via Coarse-to-fine Visual Reinforcement Learning**](https://arxiv.org/abs/2511.00391) *Xuanle Zhao, Deyang Jiang, Zhixiong Zeng, Lei Chen, Haibo Qiu, Jing Huang, Yufeng Zhong, Liming Zheng, Yilin Cao, Lin Ma
 .* Arxiv 2025.11.1. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DocTron-hub/VinciCoder)](https://github.com/DocTron-hub/VinciCoder)
 
+13. [**Visual-ERM: Reward Modeling for Visual Equivalence**](https://arxiv.org/abs/2603.13224) *Ziyu Liu, Shengyuan Ding, Xinyu Fang, Xuanlang Dai, Penghui Yang, Jianze Liang, Jiaqi Wang, Kai Chen, Dahua Lin, Yuhang Zang.* Arxiv 2026.3.13. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/InternLM/Visual-ERM)](https://github.com/InternLM/Visual-ERM)
 
+14. [**Vision2Code: A Multi-Domain Benchmark for Evaluating Image-to-Code Generation**](https://arxiv.org/abs/2605.11307) *Ajay Vikram Periasami, Junlin Wang, Bhuwan Dhingra.* Arxiv 2026.5.11. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/image2code/vision2code)](https://github.com/image2code/vision2code)
+
+15. [**Self-Distillation Policy Optimization via Visual Feedback: Bridging Code and Visual Artifacts**](https://arxiv.org/abs/2606.10334)*Haoyu Dong* 2026.06.09.
 
 
 # 🔥Contributing
