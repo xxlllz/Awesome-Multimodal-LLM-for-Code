@@ -321,19 +321,19 @@ Scientific visualization code should make visual claims inspectable, not only re
 
 1. [**nvBench: A large-scale synthesized dataset for cross-domain natural language to visualization task**](https://arxiv.org/abs/2112.12926) *Yuyu Luo, Jiawei Tang, Guoliang Li.* Arxiv 2021.
 
-2. **Viseval: A benchmark for data visualization in the era of large language models** *Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, Yuqing Yang.* IEEE Transactions on Visualization and Computer Graphics 2024.
+2. [**Viseval: A benchmark for data visualization in the era of large language models**](https://arxiv.org/abs/2407.00981) *Nan Chen, Yuge Zhang, Jiahang Xu, Kan Ren, Yuqing Yang.* IEEE Transactions on Visualization and Computer Graphics 2024.
 
-3. **Drawing pandas: A benchmark for llms in generating plotting code** *Timur Galimzyanov, Sergey Titov, Yaroslav Golubev, Egor Bogomolov.* 2025 IEEE/ACM 22nd International Conference on Mining Software Repositories (MSR) 2025.
+3. [**Drawing pandas: A benchmark for llms in generating plotting code**](https://arxiv.org/abs/2412.02764) *Timur Galimzyanov, Sergey Titov, Yaroslav Golubev, Egor Bogomolov.* 2025 IEEE/ACM 22nd International Conference on Mining Software Repositories (MSR) 2025.
 
-4. **Text2vis: A challenging and diverse benchmark for generating multimodal visualizations from text** *Mizanur Rahman, Md Tahmid Rahman Laskar, Shafiq Joty, Enamul Hoque.* Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing 2025.
+4. [**Text2vis: A challenging and diverse benchmark for generating multimodal visualizations from text**](https://arxiv.org/abs/2507.19969) *Mizanur Rahman, Md Tahmid Rahman Laskar, Shafiq Joty, Enamul Hoque.* Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing 2025.
 
 5. [**nvBench 2.0: Resolving Ambiguity in Text-to-Visualization through Stepwise Reasoning**](https://arxiv.org/abs/2503.12880) *Tianqi Luo, Chuhan Huang, Leixian Shen, Boyan Li, Shuyu Shen, Wei Zeng, Nan Tang, Yuyu Luo.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/HKUSTDial/nvBench-2.0)](https://github.com/HKUSTDial/nvBench-2.0)
 
 6. [**PlotCraft: Pushing the Limits of LLMs for Complex and Interactive Data Visualization**](https://arxiv.org/abs/2511.00010) *Jiajun Zhang, Jianke Zhang, Zeyu Cui, Jiaxi Yang, Lei Zhang, Binyuan Hui, Qiang Liu, Zilei Wang, et al.* Arxiv 2025.
 
-7. **Chartx & chartvlm: A versatile benchmark and foundation model for complicated chart reasoning** *Renqiu Xia, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Botian Shi, Junchi Yan, et al.* IEEE Transactions on Image Processing 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/InternScience/ChartVLM)](https://github.com/InternScience/ChartVLM)
+7. [**Chartx & chartvlm: A versatile benchmark and foundation model for complicated chart reasoning**](https://arxiv.org/abs/2402.12185) *Renqiu Xia, Hancheng Ye, Xiangchao Yan, Qi Liu, Hongbin Zhou, Zijun Chen, Botian Shi, Junchi Yan, et al.* IEEE Transactions on Image Processing 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/InternScience/ChartVLM)](https://github.com/InternScience/ChartVLM)
 
-8. **ChartM3: Benchmarking Chart Editing with Multimodal Instructions** *Donglu Yang, Liang Zhang, Zihao Yue, Liangyu Chen, Yichen Xu, Wenxuan Wang, Qin Jin.* Proceedings of the 33rd ACM International Conference on Multimedia 2025.
+8. [**ChartM3: Benchmarking Chart Editing with Multimodal Instructions**](https://arxiv.org/abs/2507.21167) *Donglu Yang, Liang Zhang, Zihao Yue, Liangyu Chen, Yichen Xu, Wenxuan Wang, Qin Jin.* Proceedings of the 33rd ACM International Conference on Multimedia 2025.
 
 9. [**ChartEditor: A Reinforcement Learning Framework for Robust Chart Editing**](https://arxiv.org/abs/2511.15266) *Liangyu Chen, Yichen Xu, Jianzhe Ma, Yuqi Liu, Donglu Yang, Liang Zhang, Wenxuan Wang, Qin Jin.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/CleyLyChen/ChartEditor)](https://github.com/CleyLyChen/ChartEditor)
 
@@ -341,19 +341,19 @@ Scientific visualization code should make visual claims inspectable, not only re
 
 11. [**Automated Visualization Code Synthesis via Multi-Path Reasoning and Feedback-Driven Optimization**](https://arxiv.org/abs/2502.11140) *Wonduk Seo, Seungyong Lee, Daye Kang, Hyunjin An, Zonghao Yuan, Seunghyun Lee.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/leesy7197/vispath)](https://github.com/leesy7197/vispath)
 
-12. **AMACE: Automatic Multi-Agent Chart Evolution for Iteratively Tailored Chart Generation** *Hyuk Namgoong, Jeesu Jung, Hyeonseok Kang, Yohan Lee, Sangkeun Jung.* Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing 2025.
+12. [**AMACE: Automatic Multi-Agent Chart Evolution for Iteratively Tailored Chart Generation**](https://doi.org/10.18653/v1/2025.emnlp-main.1089) *Hyuk Namgoong, Jeesu Jung, Hyeonseok Kang, Yohan Lee, Sangkeun Jung.* Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing 2025.
 
-13. **DOC2CHART: Intent-Driven Zero-Shot Chart Generation from Documents** *Akriti Jain, Pritika Ramu, Aparna Garimella, Apoorv Saxena.* Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing 2025.
+13. [**DOC2CHART: Intent-Driven Zero-Shot Chart Generation from Documents**](https://arxiv.org/abs/2507.14819) *Akriti Jain, Pritika Ramu, Aparna Garimella, Apoorv Saxena.* Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing 2025.
 
 14. [**Text2chart31: Instruction tuning for chart generation with automatic feedback**](https://arxiv.org/abs/2410.04064) *Fatemeh Pesaran Zadeh, Juyeon Kim, Jin-Hwa Kim, Gunhee Kim.* Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/fatemehpesaran310/Text2Chart31)](https://github.com/fatemehpesaran310/Text2Chart31)
 
 15. [**Chartllama: A multimodal llm for chart understanding and generation**](https://arxiv.org/abs/2311.16483) *Yucheng Han, Chi Zhang, Xin Chen, Xu Yang, Zhibin Wang, Gang Yu, Bin Fu, Hanwang Zhang.* Arxiv 2023. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/tingxueronghua/ChartLlama-code)](https://github.com/tingxueronghua/ChartLlama-code)
 
-16. **Chart2Code53: A Large-Scale Diverse and Complex Dataset for Enhancing Chart-to-Code Generation** *Tianhao Niu, Yiming Cui, Baoxin Wang, Xiao Xu, Xin Yao, Qingfu Zhu, Dayong Wu, Shijin Wang, et al.* Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/nth2000/Chart2Code53)](https://github.com/nth2000/Chart2Code53)
+16. [**Chart2Code53: A Large-Scale Diverse and Complex Dataset for Enhancing Chart-to-Code Generation**](https://doi.org/10.18653/v1/2025.emnlp-main.799) *Tianhao Niu, Yiming Cui, Baoxin Wang, Xiao Xu, Xin Yao, Qingfu Zhu, Dayong Wu, Shijin Wang, et al.* Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/nth2000/Chart2Code53)](https://github.com/nth2000/Chart2Code53)
 
-17. **ChartGen-Agent: A Three-Stage Framework for Automated High-Quality Chart Generation** *Rui Jiang, Shenrong Wu, Zhehao Wu, Zhenjie Han, Jiang Zhong.* International Conference on Advanced Data Mining and Applications 2025.
+17. [**ChartGen-Agent: A Three-Stage Framework for Automated High-Quality Chart Generation**](https://doi.org/10.1007/978-981-95-3462-3_2) *Rui Jiang, Shenrong Wu, Zhehao Wu, Zhenjie Han, Jiang Zhong.* International Conference on Advanced Data Mining and Applications 2025.
 
-18. **Chartreformer: Natural language-driven chart image editing** *Pengyu Yan, Mahesh Bhosale, Jay Lal, Bikhyat Adhikari, David Doermann.* International Conference on Document Analysis and Recognition 2024.
+18. [**Chartreformer: Natural language-driven chart image editing**](https://arxiv.org/abs/2403.00209) *Pengyu Yan, Mahesh Bhosale, Jay Lal, Bikhyat Adhikari, David Doermann.* International Conference on Document Analysis and Recognition 2024.
 
 19. [**Chart-r1: Chain-of-thought supervision and reinforcement for advanced chart reasoner**](https://arxiv.org/abs/2507.15509) *Lei Chen, Xuanle Zhao, Zhixiong Zeng, Jing Huang, Yufeng Zhong, Lin Ma.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DocTron-hub/Chart-R1)](https://github.com/DocTron-hub/Chart-R1)
 
@@ -367,11 +367,11 @@ Scientific visualization code should make visual claims inspectable, not only re
 
 **Survey-derived additions:**
 
-1. **Omnidocbench: Benchmarking diverse pdf document parsing with comprehensive annotations** *Linke Ouyang, Yuan Qu, Hongbin Zhou, Jiawei Zhu, Rui Zhang, Qunshu Lin, Bin Wang, Zhiyuan Zhao, et al.* Proceedings of the Computer Vision and Pattern Recognition Conference 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/opendatalab/OmniDocBench)](https://github.com/opendatalab/OmniDocBench)
+1. [**Omnidocbench: Benchmarking diverse pdf document parsing with comprehensive annotations**](https://arxiv.org/abs/2412.07626) *Linke Ouyang, Yuan Qu, Hongbin Zhou, Jiawei Zhu, Rui Zhang, Qunshu Lin, Bin Wang, Zhiyuan Zhao, et al.* Proceedings of the Computer Vision and Pattern Recognition Conference 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/opendatalab/OmniDocBench)](https://github.com/opendatalab/OmniDocBench)
 
 2. [**olmocr: Unlocking trillions of tokens in pdfs with vision language models**](https://arxiv.org/abs/2502.18443) *Jake Poznanski, Aman Rangapur, Jon Borchardt, Jason Dunkelberger, Regan Huff, Daniel Lin, Christopher Wilhelm, Kyle Lo, et al.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/allenai/olmocr)](https://github.com/allenai/olmocr)
 
-3. **READoc: A Unified Benchmark for Realistic Document Structured Extraction** *Zichao Li, Aizier Abulaiti, Yaojie Lu, Xuanang Chen, Jia Zheng, Hongyu Lin, Xianpei Han, Shanshan Jiang, et al.* Findings of the Association for Computational Linguistics: ACL 2025 2025.
+3. [**READoc: A Unified Benchmark for Realistic Document Structured Extraction**](https://arxiv.org/abs/2409.05137) *Zichao Li, Aizier Abulaiti, Yaojie Lu, Xuanang Chen, Jia Zheng, Hongyu Lin, Xianpei Han, Shanshan Jiang, et al.* Findings of the Association for Computational Linguistics: ACL 2025 2025.
 
 4. [**Ocean-ocr: Towards general ocr application via a vision-language model**](https://arxiv.org/abs/2501.15558) *Song Chen, Xinyu Guo, Yadong Li, Tao Zhang, Mingan Lin, Dongdong Kuang, Youwei Zhang, Lingfeng Ming, et al.* Arxiv 2025.
 
@@ -379,13 +379,13 @@ Scientific visualization code should make visual claims inspectable, not only re
 
 6. [**KITAB-Bench: A Comprehensive Multi-Domain Benchmark for Arabic OCR and Document Understanding**](https://arxiv.org/abs/2502.14949) *Ahmed Heakl, Abdullah Sohail, Mukul Ranjan, Rania Hossam, Ghazi Shazan Ahmad, Mohamed El-Geish, Omar Maher, Zhiqiang Shen, et al.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/mbzuai-oryx/KITAB-Bench)](https://github.com/mbzuai-oryx/KITAB-Bench)
 
-7. **Image-based table recognition: data, model, and evaluation** *Xu Zhong, Elaheh ShafieiBavani, Antonio Jimeno Yepes.* European conference on computer vision 2020.
+7. [**Image-based table recognition: data, model, and evaluation**](https://arxiv.org/abs/1911.10683) *Xu Zhong, Elaheh ShafieiBavani, Antonio Jimeno Yepes.* European conference on computer vision 2020.
 
-8. **Global table extractor (gte): A framework for joint table identification and cell structure recognition using visual context** *Xinyi Zheng, Douglas Burdick, Lucian Popa, Xu Zhong, Nancy Xin Ru Wang.* Proceedings of the IEEE/CVF winter conference on applications of computer vision 2021.
+8. [**Global table extractor (gte): A framework for joint table identification and cell structure recognition using visual context**](https://arxiv.org/abs/2005.00589) *Xinyi Zheng, Douglas Burdick, Lucian Popa, Xu Zhong, Nancy Xin Ru Wang.* Proceedings of the IEEE/CVF winter conference on applications of computer vision 2021.
 
-9. **Tablebank: Table benchmark for image-based table detection and recognition** *Minghao Li, Lei Cui, Shaohan Huang, Furu Wei, Ming Zhou, Zhoujun Li.* Proceedings of the Twelfth Language Resources and Evaluation Conference 2020. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/doc-analysis/TableBank)](https://github.com/doc-analysis/TableBank)
+9. [**Tablebank: Table benchmark for image-based table detection and recognition**](https://arxiv.org/abs/1903.01949) *Minghao Li, Lei Cui, Shaohan Huang, Furu Wei, Ming Zhou, Zhoujun Li.* Proceedings of the Twelfth Language Resources and Evaluation Conference 2020. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/doc-analysis/TableBank)](https://github.com/doc-analysis/TableBank)
 
-10. **LATTE: Improving Latex Recognition for Tables and Formulae with Iterative Refinement** *Nan Jiang, Shanchao Liang, Chengxiao Wang, Jiannan Wang, Lin Tan.* Proceedings of the AAAI Conference on Artificial Intelligence 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/lt-asset/Latte)](https://github.com/lt-asset/Latte)
+10. [**LATTE: Improving Latex Recognition for Tables and Formulae with Iterative Refinement**](https://arxiv.org/abs/2409.14201) *Nan Jiang, Shanchao Liang, Chengxiao Wang, Jiannan Wang, Lin Tan.* Proceedings of the AAAI Conference on Artificial Intelligence 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/lt-asset/Latte)](https://github.com/lt-asset/Latte)
 
 11. [**Unimernet: A universal network for real-world mathematical expression recognition**](https://arxiv.org/abs/2404.15254) *Bin Wang, Zhuangcheng Gu, Guang Liang, Chao Xu, Bo Zhang, Botian Shi, Conghui He.* Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/opendatalab/UniMERNet)](https://github.com/opendatalab/UniMERNet)
 
@@ -405,7 +405,7 @@ Scientific visualization code should make visual claims inspectable, not only re
 
 19. [**PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9 B Ultra-Compact Vision-Language Model**](https://arxiv.org/abs/2510.14528) *Cheng Cui, Ting Sun, Suyin Liang, Tingquan Gao, Zelun Zhang, Jiaxuan Liu, Xueqing Wang, Changda Zhou, et al.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR)](https://github.com/PaddlePaddle/PaddleOCR)
 
-20. **POINTS-Reader: Distillation-Free Adaptation of Vision-Language Models for Document Conversion** *Yuan Liu, Zhongyin Zhao, Le Tian, Haicheng Wang, Xubing Ye, Yangxiu You, Zilin Yu, Chuhan Wu, et al.* Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/POINTS-Reader)](https://github.com/Tencent/POINTS-Reader)
+20. [**POINTS-Reader: Distillation-Free Adaptation of Vision-Language Models for Document Conversion**](https://arxiv.org/abs/2509.01215) *Yuan Liu, Zhongyin Zhao, Le Tian, Haicheng Wang, Xubing Ye, Yangxiu You, Zilin Yu, Chuhan Wu, et al.* Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Tencent/POINTS-Reader)](https://github.com/Tencent/POINTS-Reader)
 
 21. [**DeepSeek-OCR: Contexts Optical Compression**](https://arxiv.org/abs/2510.18234) *Haoran Wei, Yaofeng Sun, Yukun Li.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-OCR)](https://github.com/deepseek-ai/DeepSeek-OCR)
 
@@ -419,11 +419,11 @@ Scientific visualization code should make visual claims inspectable, not only re
 
 26. [**Reading or Reasoning? Format Decoupled Reinforcement Learning for Document OCR**](https://arxiv.org/abs/2601.08834) *Yufeng Zhong, Lei Chen, Zhixiong Zeng, Xuanle Zhao, Deyang Jiang, Liming Zheng, Jing Huang, Haibo Qiu, et al.* Arxiv 2025.
 
-27. **Tableformer: Table structure understanding with transformers** *Ahmed Nassar, Nikolaos Livathinos, Maksym Lysak, Peter Staar.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022.
+27. [**Tableformer: Table structure understanding with transformers**](https://arxiv.org/abs/2203.01017) *Ahmed Nassar, Nikolaos Livathinos, Maksym Lysak, Peter Staar.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022.
 
 28. [**Unitable: Towards a unified framework for table recognition via self-supervised pretraining**](https://arxiv.org/abs/2403.04822) *ShengYun Peng, Aishwarya Chakravarthy, Seongmin Lee, Xiaojing Wang, Rajarajeswari Balasubramaniyan, Duen Horng Chau.* Arxiv 2024.
 
-29. **Latexnet: A specialized model for converting visual tables and equations to latex code** *Renqiu Xia, Hongbin Zhou, Ziming Feng, Huanxi Liu, Boan Chen, Bo Zhang, Junchi Yan.* ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025.
+29. [**Latexnet: A specialized model for converting visual tables and equations to latex code**](https://doi.org/10.1109/icassp49660.2025.10887698) *Renqiu Xia, Hongbin Zhou, Ziming Feng, Huanxi Liu, Boan Chen, Bo Zhang, Junchi Yan.* ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2025.
 
 30. [**Omnicaptioner: One captioner to rule them all**](https://arxiv.org/abs/2504.07089) *Yiting Lu, Jiakang Yuan, Zhen Li, Shitian Zhao, Qi Qin, Xinyue Li, Le Zhuo, Licheng Wen, et al.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/InternScience/OmniCaptioner)](https://github.com/InternScience/OmniCaptioner)
 
@@ -431,11 +431,11 @@ Scientific visualization code should make visual claims inspectable, not only re
 
 32. [**Texify**](https://github.com/VikParuchuri/texify) *Vik Paruchuri.* Arxiv 2023. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/VikParuchuri/texify)](https://github.com/VikParuchuri/texify)
 
-33. **Posformer: recognizing complex handwritten mathematical expression with position forest transformer** *Tongkun Guan, Chengyu Lin, Wei Shen, Xiaokang Yang.* European Conference on Computer Vision 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SJTU-DeepVisionLab/PosFormer)](https://github.com/SJTU-DeepVisionLab/PosFormer)
+33. [**Posformer: recognizing complex handwritten mathematical expression with position forest transformer**](https://arxiv.org/abs/2407.07764) *Tongkun Guan, Chengyu Lin, Wei Shen, Xiaokang Yang.* European Conference on Computer Vision 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SJTU-DeepVisionLab/PosFormer)](https://github.com/SJTU-DeepVisionLab/PosFormer)
 
 34. [**PP-FormulaNet: Bridging Accuracy and Efficiency in Advanced Formula Recognition**](https://arxiv.org/abs/2503.18382) *Hongen Liu, Cheng Cui, Yuning Du, Yi Liu, Gang Pan.* Arxiv 2025.
 
-35. **Docfusion: a unified framework for document parsing tasks** *Mingxu Chai, Ziyu Shen, Chong Zhang, Yue Zhang, Xiao Wang, Shihan Dou, Jihua Kang, Jiazheng Zhang, et al.* Findings of the Association for Computational Linguistics: ACL 2025 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SII-sc22mc/DocFusion)](https://github.com/SII-sc22mc/DocFusion)
+35. [**Docfusion: a unified framework for document parsing tasks**](https://arxiv.org/abs/2412.12505) *Mingxu Chai, Ziyu Shen, Chong Zhang, Yue Zhang, Xiao Wang, Shihan Dou, Jihua Kang, Jiazheng Zhang, et al.* Findings of the Association for Computational Linguistics: ACL 2025 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SII-sc22mc/DocFusion)](https://github.com/SII-sc22mc/DocFusion)
 
 ### 2.3 Academic Presentations
 
@@ -499,7 +499,7 @@ Scientific visualization code should make visual claims inspectable, not only re
 
 2. [**Scienceboard: Evaluating multimodal autonomous agents in realistic scientific workflows**](https://arxiv.org/abs/2505.19897) *Qiushi Sun, Zhoumianze Liu, Chang Ma, Zichen Ding, Fangzhi Xu, Zhangyue Yin, Haiteng Zhao, Zhenyu Wu, et al.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/OS-Copilot/ScienceBoard)](https://github.com/OS-Copilot/ScienceBoard)
 
-3. **From eduvisbench to eduvisagent: A benchmark and multi-agent framework for reasoning-driven pedagogical visualization** *Haonian Ji, Shi Qiu, Siyang Xin, Siwei Han, Zhaorun Chen, Dake Zhang, Hongyi Wang, Huaxiu Yao.* The 5th Workshop on Mathematical Reasoning and AI at NeurIPS 2025 2025.
+3. [**From eduvisbench to eduvisagent: A benchmark and multi-agent framework for reasoning-driven pedagogical visualization**](https://arxiv.org/abs/2505.16832) *Haonian Ji, Shi Qiu, Siyang Xin, Siwei Han, Zhaorun Chen, Dake Zhang, Hongyi Wang, Huaxiu Yao.* The 5th Workshop on Mathematical Reasoning and AI at NeurIPS 2025 2025.
 
 4. [**TheoremExplainAgent: Towards Video-based Multimodal Explanations for LLM Theorem Understanding**](https://aclanthology.org/2025.acl-long.332/) *Max Ku, Cheuk Hei Chong, Jonathan Leung, Krish Shah, Alvin Yu, Wenhu Chen.* Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), ACL 2025 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/TheoremExplainAgent)](https://github.com/TIGER-AI-Lab/TheoremExplainAgent)
 
@@ -557,39 +557,39 @@ Structured graphics move beyond pixel-level reproduction toward symbolic, editab
 
 **Survey-derived additions:**
 
-1. **Iconshop: Text-guided vector icon synthesis with autoregressive transformers** *Ronghuan Wu, Wanchao Su, Kede Ma, Jing Liao.* ACM Transactions on Graphics (TOG) 2023.
+1. [**Iconshop: Text-guided vector icon synthesis with autoregressive transformers**](https://arxiv.org/abs/2304.14400) *Ronghuan Wu, Wanchao Su, Kede Ma, Jing Liao.* ACM Transactions on Graphics (TOG) 2023.
 
 2. [**SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion**](https://arxiv.org/abs/2412.10437) *Ximing Xing, Juncheng Hu, Jing Zhang, Dong Xu, Qian Yu.* Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ximinng/SVGFusion)](https://github.com/ximinng/SVGFusion)
 
 3. [**Vgbench: Evaluating large language models on vector graphics understanding and generation**](https://arxiv.org/abs/2407.10972) *Bocheng Zou, Mu Cai, Jianrui Zhang, Yong Jae Lee.* Arxiv 2024.
 
-4. **Unisvg: A unified dataset for vector graphic understanding and generation with multimodal large language models** *Jinke Li, Jiarui Yu, Chenxing Wei, Hande Dong, Qiang Lin, Liangjing Yang, Zhicai Wang, Yanbin Hao.* Proceedings of the 33rd ACM International Conference on Multimedia 2025.
+4. [**Unisvg: A unified dataset for vector graphic understanding and generation with multimodal large language models**](https://arxiv.org/abs/2508.07766) *Jinke Li, Jiarui Yu, Chenxing Wei, Hande Dong, Qiang Lin, Liangjing Yang, Zhicai Wang, Yanbin Hao.* Proceedings of the 33rd ACM International Conference on Multimedia 2025.
 
-5. **Deepsvg: A hierarchical generative network for vector graphics animation** *Alexandre Carlier, Martin Danelljan, Alexandre Alahi, Radu Timofte.* Advances in Neural Information Processing Systems 2020. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/alexandre01/deepsvg)](https://github.com/alexandre01/deepsvg)
+5. [**Deepsvg: A hierarchical generative network for vector graphics animation**](https://arxiv.org/abs/2007.11301) *Alexandre Carlier, Martin Danelljan, Alexandre Alahi, Radu Timofte.* Advances in Neural Information Processing Systems 2020. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/alexandre01/deepsvg)](https://github.com/alexandre01/deepsvg)
 
 6. [**Rendering-Aware Reinforcement Learning for Vector Graphics Generation**](https://arxiv.org/abs/2505.20793) *Juan A Rodriguez, Haotian Zhang, Abhay Puri, Aarash Feizi, Rishav Pramanik, Pascal Wichmann, Arnab Mondal, Mohammad Reza Samsami, et al.* Arxiv 2025.
 
 7. [**RoboSVG: A Unified Framework for Interactive SVG Generation with Multi-modal Guidance**](https://arxiv.org/abs/2510.22684) *Jiuniu Wang, Gongjie Zhang, Quanhao Qian, Junlong Gao, Deli Zhao, Ran Xu.* Arxiv 2025.
 
-8. **Differentiable vector graphics rasterization for editing and learning** *Tzu-Mao Li, Michal Luk'ac, Micha"el Gharbi, Jonathan Ragan-Kelley.* ACM Transactions on Graphics (TOG) 2020.
+8. [**Differentiable vector graphics rasterization for editing and learning**](https://people.csail.mit.edu/tzumao/diffvg/) *Tzu-Mao Li, Michal Luk'ac, Micha"el Gharbi, Jonathan Ragan-Kelley.* ACM Transactions on Graphics (TOG) 2020.
 
-9. **Towards layer-wise image vectorization** *Xu Ma, Yuqian Zhou, Xingqian Xu, Bin Sun, Valerii Filev, Nikita Orlov, Yun Fu, Humphrey Shi.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022.
+9. [**Towards layer-wise image vectorization**](https://arxiv.org/abs/2206.04655) *Xu Ma, Yuqian Zhou, Xingqian Xu, Bin Sun, Valerii Filev, Nikita Orlov, Yun Fu, Humphrey Shi.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022.
 
-10. **Vectorfusion: Text-to-svg by abstracting pixel-based diffusion models** *Ajay Jain, Amber Xie, Pieter Abbeel.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023.
+10. [**Vectorfusion: Text-to-svg by abstracting pixel-based diffusion models**](https://arxiv.org/abs/2211.11319) *Ajay Jain, Amber Xie, Pieter Abbeel.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2023.
 
-11. **Svgdreamer: Text guided svg generation with diffusion model** *Ximing Xing, Haitao Zhou, Chuang Wang, Jing Zhang, Dong Xu, Qian Yu.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ximinng/SVGDreamer)](https://github.com/ximinng/SVGDreamer)
+11. [**Svgdreamer: Text guided svg generation with diffusion model**](https://arxiv.org/abs/2312.16476) *Ximing Xing, Haitao Zhou, Chuang Wang, Jing Zhang, Dong Xu, Qian Yu.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ximinng/SVGDreamer)](https://github.com/ximinng/SVGDreamer)
 
-12. **SAMVG: A multi-stage image vectorization model with the segment-anything model** *Haokun Zhu, Juang Ian Chong, Teng Hu, Ran Yi, Yu-Kun Lai, Paul L Rosin.* ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024.
+12. [**SAMVG: A multi-stage image vectorization model with the segment-anything model**](https://arxiv.org/abs/2311.05276) *Haokun Zhu, Juang Ian Chong, Teng Hu, Ran Yi, Yu-Kun Lai, Paul L Rosin.* ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2024.
 
 13. [**Neuralsvg: An implicit representation for text-to-vector generation**](https://arxiv.org/abs/2501.03992) *Sagi Polaczek, Yuval Alaluf, Elad Richardson, Yael Vinker, Daniel Cohen-Or.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SagiPolaczek/NeuralSVG)](https://github.com/SagiPolaczek/NeuralSVG)
 
-14. **Im2vec: Synthesizing vector graphics without vector supervision** *Pradyumna Reddy, Michael Gharbi, Michal Lukac, Niloy J Mitra.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021.
+14. [**Im2vec: Synthesizing vector graphics without vector supervision**](https://arxiv.org/abs/2102.02798) *Pradyumna Reddy, Michael Gharbi, Michal Lukac, Niloy J Mitra.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2021.
 
-15. **Supersvg: Superpixel-based scalable vector graphics synthesis** *Teng Hu, Ran Yi, Baihong Qian, Jiangning Zhang, Paul L Rosin, Yu-Kun Lai.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024.
+15. [**Supersvg: Superpixel-based scalable vector graphics synthesis**](https://arxiv.org/abs/2406.09794) *Teng Hu, Ran Yi, Baihong Qian, Jiangning Zhang, Paul L Rosin, Yu-Kun Lai.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024.
 
-16. **SVGThinker: Instruction-Aligned and Reasoning-Driven Text-to-SVG Generation** *Hanqi Chen, Zhongyin Zhao, Ye Chen, Zhujin Liang, Bingbing Ni.* Proceedings of the 33rd ACM International Conference on Multimedia 2025.
+16. [**SVGThinker: Instruction-Aligned and Reasoning-Driven Text-to-SVG Generation**](https://arxiv.org/abs/2509.24299) *Hanqi Chen, Zhongyin Zhao, Ye Chen, Zhujin Liang, Bingbing Ni.* Proceedings of the 33rd ACM International Conference on Multimedia 2025.
 
-17. **SVGen: Interpretable Vector Graphics Generation with Large Language Models** *Feiyu Wang, Zhiyuan Zhao, Yuandong Liu, Da Zhang, Junyu Gao, Hao Sun, Xuelong Li.* Proceedings of the 33rd ACM International Conference on Multimedia 2025.
+17. [**SVGen: Interpretable Vector Graphics Generation with Large Language Models**](https://arxiv.org/abs/2508.09168) *Feiyu Wang, Zhiyuan Zhao, Yuandong Liu, Da Zhang, Junyu Gao, Hao Sun, Xuelong Li.* Proceedings of the 33rd ACM International Conference on Multimedia 2025.
 
 ### 3.2 Diagram
 
@@ -598,13 +598,13 @@ Structured graphics move beyond pixel-level reproduction toward symbolic, editab
 
 **Survey-derived additions:**
 
-1. **Code generation from flowcharts with texts: A benchmark dataset and an approach** *Zejie Liu, Xiaoyu Hu, Deyu Zhou, Lin Li, Xu Zhang, Yanzheng Xiang.* Findings of the Association for Computational Linguistics: EMNLP 2022 2022.
+1. [**Code generation from flowcharts with texts: A benchmark dataset and an approach**](https://doi.org/10.18653/v1/2022.findings-emnlp.449) *Zejie Liu, Xiaoyu Hu, Deyu Zhou, Lin Li, Xu Zhang, Yanzheng Xiang.* Findings of the Association for Computational Linguistics: EMNLP 2022 2022.
 
 2. [**Flow2Code: Evaluating Large Language Models for Flowchart-based Code Generation Capability**](https://arxiv.org/abs/2506.02073) *Mengliang He, Jiayi Zeng, Yankai Jiang, Wei Zhang, Zeming Liu, Xiaoming Shi, Aimin Zhou.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/hml-github/Flow2Code)](https://github.com/hml-github/Flow2Code)
 
-3. **Unified modeling language code generation from diagram images using multimodal large language models** *Averi Bates, Ryan Vavricka, Shane Carleton, Ruosi Shao, Chongle Pan.* Machine Learning with Applications 2025.
+3. [**Unified modeling language code generation from diagram images using multimodal large language models**](https://arxiv.org/abs/2503.12293) *Averi Bates, Ryan Vavricka, Shane Carleton, Ruosi Shao, Chongle Pan.* Machine Learning with Applications 2025.
 
-4. **Natural language is not enough: Benchmarking multi-modal generative AI for Verilog generation** *Kaiyan Chang, Zhirong Chen, Yunhao Zhou, Wenlong Zhu, Kun Wang, Haobo Xu, Cangyuan Li, Mengdi Wang, et al.* Proceedings of the 43rd IEEE/ACM International Conference on Computer-Aided Design 2024.
+4. [**Natural language is not enough: Benchmarking multi-modal generative AI for Verilog generation**](https://arxiv.org/abs/2407.08473) *Kaiyan Chang, Zhirong Chen, Yunhao Zhou, Wenlong Zhu, Kun Wang, Haobo Xu, Cangyuan Li, Mengdi Wang, et al.* Proceedings of the 43rd IEEE/ACM International Conference on Computer-Aided Design 2024.
 
 5. [**OmniDiagram: Advancing Unified Diagram Code Generation via Visual Interrogation Reward**](https://arxiv.org/abs/2604.05514) *Haoyue Yang, Xuanle Zhao, Xuexin Liu, Feibang Jiang, Yao Zhu.* Arxiv 2026. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Haoyue-Yang/OmniDiagram)](https://github.com/Haoyue-Yang/OmniDiagram)
 
@@ -622,39 +622,39 @@ Structured graphics move beyond pixel-level reproduction toward symbolic, editab
 
 **Survey-derived additions:**
 
-1. **Deepcad: A deep generative network for computer-aided design models** *Rundi Wu, Chang Xiao, Changxi Zheng.* Proceedings of the IEEE/CVF International Conference on Computer Vision 2021. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/rundiwu/DeepCAD)](https://github.com/rundiwu/DeepCAD)
+1. [**Deepcad: A deep generative network for computer-aided design models**](https://arxiv.org/abs/2105.09492) *Rundi Wu, Chang Xiao, Changxi Zheng.* Proceedings of the IEEE/CVF International Conference on Computer Vision 2021. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/rundiwu/DeepCAD)](https://github.com/rundiwu/DeepCAD)
 
-2. **Fusion 360 gallery: A dataset and environment for programmatic cad construction from human design sequences** *Karl DD Willis, Yewen Pu, Jieliang Luo, Hang Chu, Tao Du, Joseph G Lambourne, Armando Solar-Lezama, Wojciech Matusik.* ACM Transactions on Graphics (TOG) 2021.
+2. [**Fusion 360 gallery: A dataset and environment for programmatic cad construction from human design sequences**](https://arxiv.org/abs/2010.02392) *Karl DD Willis, Yewen Pu, Jieliang Luo, Hang Chu, Tao Du, Joseph G Lambourne, Armando Solar-Lezama, Wojciech Matusik.* ACM Transactions on Graphics (TOG) 2021.
 
 3. [**Text2CAD: Generating Sequential CAD Models from Beginner-to-Expert Level Text Prompts**](https://arxiv.org/abs/2409.17106) *Mohammad Sadil Khan, Sankalp Sinha, Talha Uddin Sheikh, Didier Stricker, Sk Aziz Ali, Muhammad Zeshan Afzal.* Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SadilKhan/Text2CAD)](https://github.com/SadilKhan/Text2CAD)
 
-4. **Cadtalk: An algorithm and benchmark for semantic commenting of cad programs** *Haocheng Yuan, Jing Xu, Hao Pan, Adrien Bousseau, Niloy J Mitra, Changjian Li.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024.
+4. [**Cadtalk: An algorithm and benchmark for semantic commenting of cad programs**](https://arxiv.org/abs/2311.16703) *Haocheng Yuan, Jing Xu, Hao Pan, Adrien Bousseau, Niloy J Mitra, Changjian Li.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024.
 
 5. [**From Intent to Execution: Multimodal Chain-of-Thought Reinforcement Learning for Precise CAD Code Generation**](https://arxiv.org/abs/2508.10118) *Ke Niu, Haiyang Yu, Zhuofan Chen, Mengyang Zhao, Teng Fu, Bin Li, Xiangyang Xue.* Arxiv 2025.
 
-6. **Cad translator: An effective drive for text to 3d parametric computer-aided design generative modeling** *Xueyang Li, Yu Song, Yunzhong Lou, Xiangdong Zhou.* Proceedings of the 32nd ACM International Conference on Multimedia 2024.
+6. [**Cad translator: An effective drive for text to 3d parametric computer-aided design generative modeling**](https://openreview.net/forum?id=DN3722rnLd) *Xueyang Li, Yu Song, Yunzhong Lou, Xiangdong Zhou.* Proceedings of the 32nd ACM International Conference on Multimedia 2024.
 
-7. **CAD-Llama: leveraging large language models for computer-aided design parametric 3D model generation** *Jiahao Li, Weijian Ma, Xueyang Li, Yunzhong Lou, Guichun Zhou, Xiangdong Zhou.* Proceedings of the Computer Vision and Pattern Recognition Conference 2025.
+7. [**CAD-Llama: leveraging large language models for computer-aided design parametric 3D model generation**](https://arxiv.org/abs/2505.04481) *Jiahao Li, Weijian Ma, Xueyang Li, Yunzhong Lou, Guichun Zhou, Xiangdong Zhou.* Proceedings of the Computer Vision and Pattern Recognition Conference 2025.
 
 8. [**Query2cad: Generating cad models using natural language queries**](https://arxiv.org/abs/2406.00144) *Akshay Badagabettu, Sai Sravan Yarlagadda, Amir Barati Farimani.* Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/akshay140601/Query2CAD)](https://github.com/akshay140601/Query2CAD)
 
-9. **Cad-recode: Reverse engineering cad code from point clouds** *Danila Rukhovich, Elona Dupont, Dimitrios Mallis, Kseniya Cherenkova, Anis Kacem, Djamila Aouada.* Proceedings of the IEEE/CVF International Conference on Computer Vision 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/filaPro/cad-recode)](https://github.com/filaPro/cad-recode)
+9. [**Cad-recode: Reverse engineering cad code from point clouds**](https://arxiv.org/abs/2412.14042) *Danila Rukhovich, Elona Dupont, Dimitrios Mallis, Kseniya Cherenkova, Anis Kacem, Djamila Aouada.* Proceedings of the IEEE/CVF International Conference on Computer Vision 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/filaPro/cad-recode)](https://github.com/filaPro/cad-recode)
 
-10. **Cad-signet: Cad language inference from point clouds using layer-wise sketch instance guided attention** *Mohammad Sadil Khan, Elona Dupont, Sk Aziz Ali, Kseniya Cherenkova, Anis Kacem, Djamila Aouada.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024.
+10. [**Cad-signet: Cad language inference from point clouds using layer-wise sketch instance guided attention**](https://arxiv.org/abs/2402.17678) *Mohammad Sadil Khan, Elona Dupont, Sk Aziz Ali, Kseniya Cherenkova, Anis Kacem, Djamila Aouada.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024.
 
-11. **Img2cad: Conditioned 3-d cad model generation from single image with structured visual geometry** *Tianrun Chen, Chunan Yu, Yuanqi Hu, Jing Li, Tao Xu, Runlong Cao, Lanyun Zhu, Ying Zang, et al.* IEEE Transactions on Industrial Informatics 2025.
+11. [**Img2cad: Conditioned 3-d cad model generation from single image with structured visual geometry**](https://doi.org/10.1109/tii.2025.3584476) *Tianrun Chen, Chunan Yu, Yuanqi Hu, Jing Li, Tao Xu, Runlong Cao, Lanyun Zhu, Ying Zang, et al.* IEEE Transactions on Industrial Informatics 2025.
 
 12. [**Cad-mllm: Unifying multimodality-conditioned cad generation with mllm**](https://arxiv.org/abs/2411.04954) *Jingwei Xu, Chenyu Wang, Zibo Zhao, Wen Liu, Yi Ma, Shenghua Gao.* Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/CAD-MLLM/CAD-MLLM)](https://github.com/CAD-MLLM/CAD-MLLM)
 
-13. **CAD-assistant: tool-augmented vllms as generic cad task solvers** *Dimitrios Mallis, Ahmet Serda Karadeniz, Sebastian Cavada, Danila Rukhovich, Niki Foteinopoulou, Kseniya Cherenkova, Anis Kacem, Djamila Aouada.* Proceedings of the IEEE/CVF International Conference on Computer Vision 2025.
+13. [**CAD-assistant: tool-augmented vllms as generic cad task solvers**](https://arxiv.org/abs/2412.13810) *Dimitrios Mallis, Ahmet Serda Karadeniz, Sebastian Cavada, Danila Rukhovich, Niki Foteinopoulou, Kseniya Cherenkova, Anis Kacem, Djamila Aouada.* Proceedings of the IEEE/CVF International Conference on Computer Vision 2025.
 
 14. [**ReCAD: Reinforcement Learning Enhanced Parametric CAD Model Generation with Vision-Language Models**](https://arxiv.org/abs/2512.06328) *Jiahao Li, Yusheng Luo, Yunzhong Lou, Xiangdong Zhou.* Arxiv 2025.
 
 15. [**CAD-Judge: Toward Efficient Morphological Grading and Verification for Text-to-CAD Generation**](https://arxiv.org/abs/2508.04002) *Zheyuan Zhou, Jiayi Han, Liang Du, Naiyu Fang, Lemiao Qiu, Shuyou Zhang.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zhouzheyuan/cad-judge)](https://github.com/zhouzheyuan/cad-judge)
 
-16. **Dreamcoder: Bootstrapping inductive program synthesis with wake-sleep library learning** *Kevin Ellis, Catherine Wong, Maxwell Nye, Mathias Sabl'e-Meyer, Lucas Morales, Luke Hewitt, Luc Cary, Armando Solar-Lezama, et al.* Proceedings of the 42nd acm sigplan international conference on programming language design and implementation 2021.
+16. [**Dreamcoder: Bootstrapping inductive program synthesis with wake-sleep library learning**](https://arxiv.org/abs/2006.08381) *Kevin Ellis, Catherine Wong, Maxwell Nye, Mathias Sabl'e-Meyer, Lucas Morales, Luke Hewitt, Luc Cary, Armando Solar-Lezama, et al.* Proceedings of the 42nd acm sigplan international conference on programming language design and implementation 2021.
 
-17. **Shapecoder: Discovering abstractions for visual programs from unstructured primitives** *R Kenny Jones, Paul Guerrero, Niloy J Mitra, Daniel Ritchie.* ACM Transactions on Graphics (TOG) 2023. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/rkjones4/ShapeCoder)](https://github.com/rkjones4/ShapeCoder)
+17. [**Shapecoder: Discovering abstractions for visual programs from unstructured primitives**](https://arxiv.org/abs/2305.05661) *R Kenny Jones, Paul Guerrero, Niloy J Mitra, Daniel Ritchie.* ACM Transactions on Graphics (TOG) 2023. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/rkjones4/ShapeCoder)](https://github.com/rkjones4/ShapeCoder)
 
 **Adjacent shape-program entries discussed under CAD:**
 
@@ -678,21 +678,21 @@ Frontier settings use code as an intermediate trace, repair interface, temporal 
 
 2. [**VipAct: Visual-perception enhancement via specialized vlm agent collaboration and tool-use**](https://arxiv.org/abs/2410.16400) *Zhehao Zhang, Ryan Rossi, Tong Yu, Franck Dernoncourt, Ruiyi Zhang, Jiuxiang Gu, Sungchul Kim, Xiang Chen, et al.* Arxiv 2024.
 
-3. **Hydra: A hyper agent for dynamic compositional visual reasoning** *Fucai Ke, Zhixi Cai, Simindokht Jahangard, Weiqing Wang, Pari Delir Haghighi, Hamid Rezatofighi.* European Conference on Computer Vision 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ControlNet/HYDRA)](https://github.com/ControlNet/HYDRA)
+3. [**Hydra: A hyper agent for dynamic compositional visual reasoning**](https://arxiv.org/abs/2403.12884) *Fucai Ke, Zhixi Cai, Simindokht Jahangard, Weiqing Wang, Pari Delir Haghighi, Hamid Rezatofighi.* European Conference on Computer Vision 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ControlNet/HYDRA)](https://github.com/ControlNet/HYDRA)
 
 4. [**Doraemongpt: Toward understanding dynamic scenes with large language models (exemplified as a video agent)**](https://arxiv.org/abs/2401.08392) *Zongxin Yang, Guikun Chen, Xiaodi Li, Wenguan Wang, Yi Yang.* Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/z-x-yang/DoraemonGPT)](https://github.com/z-x-yang/DoraemonGPT)
 
 5. [**Traveler: A modular multi-lmm agent framework for video question-answering**](https://arxiv.org/abs/2404.01476) *Chuyi Shang, Amos You, Sanjay Subramanian, Trevor Darrell, Roei Herzig.* Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/traveler-framework/TraveLER)](https://github.com/traveler-framework/TraveLER)
 
-6. **Morevqa: Exploring modular reasoning models for video question answering** *Juhong Min, Shyamal Buch, Arsha Nagrani, Minsu Cho, Cordelia Schmid.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024.
+6. [**Morevqa: Exploring modular reasoning models for video question answering**](https://arxiv.org/abs/2404.06511) *Juhong Min, Shyamal Buch, Arsha Nagrani, Minsu Cho, Cordelia Schmid.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024.
 
-7. **Videoagent: A memory-augmented multimodal agent for video understanding** *Yue Fan, Xiaojian Ma, Rujie Wu, Yuntao Du, Jiaqi Li, Zhi Gao, Qing Li.* European Conference on Computer Vision 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/YueFan1014/VideoAgent)](https://github.com/YueFan1014/VideoAgent)
+7. [**Videoagent: A memory-augmented multimodal agent for video understanding**](https://arxiv.org/abs/2403.11481) *Yue Fan, Xiaojian Ma, Rujie Wu, Yuntao Du, Jiaqi Li, Zhi Gao, Qing Li.* European Conference on Computer Vision 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/YueFan1014/VideoAgent)](https://github.com/YueFan1014/VideoAgent)
 
-8. **Videoagent: Long-form video understanding with large language model as agent** *Xiaohan Wang, Yuhui Zhang, Orr Zohar, Serena Yeung-Levy.* European Conference on Computer Vision 2024.
+8. [**Videoagent: Long-form video understanding with large language model as agent**](https://arxiv.org/abs/2403.10517) *Xiaohan Wang, Yuhui Zhang, Orr Zohar, Serena Yeung-Levy.* European Conference on Computer Vision 2024.
 
-9. **Vtimecot: Thinking by drawing for video temporal grounding and reasoning** *Jinglei Zhang, Yuanfan Guo, Rolandos Alexandros Potamias, Jiankang Deng, Hang Xu, Chao Ma.* Proceedings of the IEEE/CVF International Conference on Computer Vision 2025.
+9. [**Vtimecot: Thinking by drawing for video temporal grounding and reasoning**](https://arxiv.org/abs/2510.14672) *Jinglei Zhang, Yuanfan Guo, Rolandos Alexandros Potamias, Jiankang Deng, Hang Xu, Chao Ma.* Proceedings of the IEEE/CVF International Conference on Computer Vision 2025.
 
-10. **Mllm-tool: A multimodal large language model for tool agent learning** *Chenyu Wang, Weixin Luo, Sixun Dong, Xiaohua Xuan, Zhengxin Li, Lin Ma, Shenghua Gao.* 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Chenyu-Wang567/MLLM-Tool)](https://github.com/Chenyu-Wang567/MLLM-Tool)
+10. [**Mllm-tool: A multimodal large language model for tool agent learning**](https://arxiv.org/abs/2401.10727) *Chenyu Wang, Weixin Luo, Sixun Dong, Xiaohua Xuan, Zhengxin Li, Lin Ma, Shenghua Gao.* 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/Chenyu-Wang567/MLLM-Tool)](https://github.com/Chenyu-Wang567/MLLM-Tool)
 
 11. [**CogCoM: A Visual Language Model with Chain-of-Manipulations Reasoning**](https://arxiv.org/abs/2402.04236) *Ji Qi, Ming Ding, Weihan Wang, Yushi Bai, Qingsong Lv, Wenyi Hong, Bin Xu, Lei Hou, et al.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/zai-org/CogCoM)](https://github.com/zai-org/CogCoM)
 
@@ -700,13 +700,13 @@ Frontier settings use code as an intermediate trace, repair interface, temporal 
 
 13. [**Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs**](https://arxiv.org/abs/2511.19773) *Meng Lu, Ran Xu, Yi Fang, Wenxuan Zhang, Yue Yu, Gaurav Srivastava, Yuchen Zhuang, Mohamed Elhoseiny, et al.* Arxiv 2025.
 
-14. **Visual programming: Compositional visual reasoning without training** *Tanmay Gupta, Aniruddha Kembhavi.* Proceedings of the IEEE/CVF conference on computer vision and pattern recognition 2023.
+14. [**Visual programming: Compositional visual reasoning without training**](https://arxiv.org/abs/2211.11559) *Tanmay Gupta, Aniruddha Kembhavi.* Proceedings of the IEEE/CVF conference on computer vision and pattern recognition 2023.
 
 15. [**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128) *Dídac Surís, Sachit Menon, Carl Vondrick.* Arxiv 2023. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/cvlab-columbia/viper)](https://github.com/cvlab-columbia/viper)
 
-16. **Modular Visual Question Answering via Code Generation** *Sanjay Subramanian, Medhini Narasimhan, Kushal Khangaonkar, Kevin Yang, Arsha Nagrani, Cordelia Schmid, Andy Zeng, Trevor Darrell, et al.* Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics 2023.
+16. [**Modular Visual Question Answering via Code Generation**](https://arxiv.org/abs/2306.05392) *Sanjay Subramanian, Medhini Narasimhan, Kushal Khangaonkar, Kevin Yang, Arsha Nagrani, Cordelia Schmid, Andy Zeng, Trevor Darrell, et al.* Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics 2023.
 
-17. **Visual program distillation: Distilling tools and programmatic reasoning into vision-language models** *Yushi Hu, Otilia Stretcu, Chun-Ta Lu, Krishnamurthy Viswanathan, Kenji Hata, Enming Luo, Ranjay Krishna, Ariel Fuxman.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024.
+17. [**Visual program distillation: Distilling tools and programmatic reasoning into vision-language models**](https://arxiv.org/abs/2312.03052) *Yushi Hu, Otilia Stretcu, Chun-Ta Lu, Krishnamurthy Viswanathan, Kenji Hata, Enming Luo, Ranjay Krishna, Ariel Fuxman.* Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2024.
 
 18. [**Reinforcing spatial reasoning in vision-language models with interwoven thinking and visual drawing**](https://arxiv.org/abs/2506.09965) *Junfei Wu, Jian Guan, Kaituo Feng, Qiang Liu, Shu Wu, Liang Wang, Wei Wu, Tieniu Tan.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/AntResearchNLP/ViLaSR)](https://github.com/AntResearchNLP/ViLaSR)
 
@@ -740,25 +740,25 @@ Frontier settings use code as an intermediate trace, repair interface, temporal 
 
 2. [**Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation**](https://arxiv.org/abs/2501.04268) *Senwei Xie, Hongyu Wang, Zhanqi Xiao, Ruiping Wang, Xilin Chen.* Arxiv 2025.
 
-3. **Theoremexplainagent: Towards video-based multimodal explanations for llm theorem understanding** *Max Ku, Cheuk Hei Chong, Jonathan Leung, Krish Shah, Alvin Yu, Wenhu Chen.* Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/TheoremExplainAgent)](https://github.com/TIGER-AI-Lab/TheoremExplainAgent)
+3. [**Theoremexplainagent: Towards video-based multimodal explanations for llm theorem understanding**](https://aclanthology.org/2025.acl-long.332/) *Max Ku, Cheuk Hei Chong, Jonathan Leung, Krish Shah, Alvin Yu, Wenhu Chen.* Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/TheoremExplainAgent)](https://github.com/TIGER-AI-Lab/TheoremExplainAgent)
 
 ### 4.3 Embodied Control
 
-1. **Virtualhome: Simulating household activities via programs** *Xavier Puig, Kevin Ra, Marko Boben, Jiaman Li, Tingwu Wang, Sanja Fidler, Antonio Torralba.* Proceedings of the IEEE conference on computer vision and pattern recognition 2018. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/xavierpuigf/virtualhome)](https://github.com/xavierpuigf/virtualhome)
+1. [**Virtualhome: Simulating household activities via programs**](https://arxiv.org/abs/1806.07011) *Xavier Puig, Kevin Ra, Marko Boben, Jiaman Li, Tingwu Wang, Sanja Fidler, Antonio Torralba.* Proceedings of the IEEE conference on computer vision and pattern recognition 2018. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/xavierpuigf/virtualhome)](https://github.com/xavierpuigf/virtualhome)
 
 2. [**Code as policies: Language model programs for embodied control**](https://arxiv.org/abs/2209.07753) *Jacky Liang, Wenlong Huang, Fei Xia, Peng Xu, Karol Hausman, Brian Ichter, Pete Florence, Andy Zeng.* Arxiv 2022.
 
-3. **ProgPrompt: program generation for situated robot task planning using large language models** *Ishika Singh, Valts Blukis, Arsalan Mousavian, Ankit Goyal, Danfei Xu, Jonathan Tremblay, Dieter Fox, Jesse Thomason, et al.* Autonomous Robots 2023. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/progprompt-vh)](https://github.com/NVlabs/progprompt-vh)
+3. [**ProgPrompt: program generation for situated robot task planning using large language models**](https://doi.org/10.1007/s10514-023-10135-3) *Ishika Singh, Valts Blukis, Arsalan Mousavian, Ankit Goyal, Danfei Xu, Jonathan Tremblay, Dieter Fox, Jesse Thomason, et al.* Autonomous Robots 2023. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/NVlabs/progprompt-vh)](https://github.com/NVlabs/progprompt-vh)
 
-4. **Octopus: Embodied vision-language programmer from environmental feedback** *Jingkang Yang, Yuhao Dong, Shuai Liu, Bo Li, Ziyue Wang, Haoran Tan, Chencheng Jiang, Jiamu Kang, et al.* European conference on computer vision 2024.
+4. [**Octopus: Embodied vision-language programmer from environmental feedback**](https://arxiv.org/abs/2310.08588) *Jingkang Yang, Yuhao Dong, Shuai Liu, Bo Li, Ziyue Wang, Haoran Tan, Chencheng Jiang, Jiamu Kang, et al.* European conference on computer vision 2024.
 
-5. **See and think: Embodied agent in virtual environment** *Zhonghan Zhao, Wenhao Chai, Xuan Wang, Boyi Li, Shengyu Hao, Shidong Cao, Tian Ye, Gaoang Wang.* European Conference on Computer Vision 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/wenhaochai/STEVE)](https://github.com/wenhaochai/STEVE)
+5. [**See and think: Embodied agent in virtual environment**](https://arxiv.org/abs/2311.15209) *Zhonghan Zhao, Wenhao Chai, Xuan Wang, Boyi Li, Shengyu Hao, Shidong Cao, Tian Ye, Gaoang Wang.* European Conference on Computer Vision 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/wenhaochai/STEVE)](https://github.com/wenhaochai/STEVE)
 
 6. [**Roboscript: Code generation for free-form manipulation tasks across real and simulation**](https://arxiv.org/abs/2402.14623) *Junting Chen, Yao Mu, Qiaojun Yu, Tianming Wei, Silang Wu, Zhecheng Yuan, Zhixuan Liang, Chao Yang, et al.* Arxiv 2024.
 
 7. [**Code as reward: Empowering reinforcement learning with vlms**](https://arxiv.org/abs/2402.04764) *David Venuto, Sami Nur Islam, Martin Klissarov, Doina Precup, Sherry Yang, Ankit Anand.* Arxiv 2024.
 
-8. **Is imitation all you need? generalized decision-making with dual-phase training** *Yao Wei, Yanchao Sun, Ruijie Zheng, Sai Vemprala, Rogerio Bonatti, Shuhang Chen, Ratnesh Madaan, Zhongjie Ba, et al.* Proceedings of the IEEE/CVF International Conference on Computer Vision 2023.
+8. [**Is imitation all you need? generalized decision-making with dual-phase training**](https://arxiv.org/abs/2307.07909) *Yao Wei, Yanchao Sun, Ruijie Zheng, Sai Vemprala, Rogerio Bonatti, Shuhang Chen, Ratnesh Madaan, Zhongjie Ba, et al.* Proceedings of the IEEE/CVF International Conference on Computer Vision 2023.
 
 9. [**Robocodex: Multimodal code generation for robotic behavior synthesis**](https://arxiv.org/abs/2402.16117) *Yao Mu, Junting Chen, Qinglong Zhang, Shoufa Chen, Qiaojun Yu, Chongjian Ge, Runjian Chen, Zhixuan Liang, et al.* Arxiv 2024.
 
@@ -786,9 +786,9 @@ Frontier settings use code as an intermediate trace, repair interface, temporal 
 
 **Survey-derived additions:**
 
-1. **Turtlebench: A visual programming benchmark in turtle geometry** *Sina Rismanchian, Yasaman Razeghi, Sameer Singh, Shayan Doroudi.* Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/sinaris76/TurtleBench)](https://github.com/sinaris76/TurtleBench)
+1. [**Turtlebench: A visual programming benchmark in turtle geometry**](https://arxiv.org/abs/2411.00264) *Sina Rismanchian, Yasaman Razeghi, Sameer Singh, Shayan Doroudi.* Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers) 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/sinaris76/TurtleBench)](https://github.com/sinaris76/TurtleBench)
 
-2. **Omnigirl: A multilingual and multimodal benchmark for github issue resolution** *Lianghong Guo, Wei Tao, Runhan Jiang, Yanlin Wang, Jiachi Chen, Xilin Liu, Yuchi Ma, Mingzhi Mao, et al.* Proceedings of the ACM on Software Engineering 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DeepSoftwareAnalytics/OmniGIRL)](https://github.com/DeepSoftwareAnalytics/OmniGIRL)
+2. [**Omnigirl: A multilingual and multimodal benchmark for github issue resolution**](https://arxiv.org/abs/2505.04606) *Lianghong Guo, Wei Tao, Runhan Jiang, Yanlin Wang, Jiachi Chen, Xilin Liu, Yuchi Ma, Mingzhi Mao, et al.* Proceedings of the ACM on Software Engineering 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/DeepSoftwareAnalytics/OmniGIRL)](https://github.com/DeepSoftwareAnalytics/OmniGIRL)
 
 **Visual software repair entries discussed under Visually Grounded Programming:**
 
