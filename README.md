@@ -23,8 +23,6 @@ The survey organizes the field by the role code plays when visual information is
 - **Structured Graphics:** SVG, diagrams, CAD, and 3D shape programs where generated code should remain symbolic, editable, and structurally valid.
 - **Frontier Tasks and Frameworks:** code as a visual-reasoning tool trace, software-repair interface, temporal procedure, embodied policy, game artifact, or unified multimodal-code interface.
 
-Existing papers from the original awesome list are retained. New entries are added from the survey source in `/home/zhaoxuanle/private/MMC_Survey`, with the README reorganized to follow the paper's chapter structure.
-
 <p align="center">
   <img src="assets/figures/publication_trend.png" alt="Publication trend" width="95%">
 </p>
@@ -58,8 +56,6 @@ Existing papers from the original awesome list are retained. New entries are add
 > You can directly click on a paper title to jump to its PDF, project page, or official source when a link is available.
 
 ## 1. Graphical User Interface
-
-Graphical user interface code generation translates visual designs into executable implementations. This chapter covers web and mobile UI tasks, where evaluation must connect screenshots, generated code, rendered states, user actions, and implementation structure.
 
 <p align="center">
   <img src="assets/figures/gui_task.png" alt="GUI code generation tasks" width="90%">
@@ -220,8 +216,6 @@ Graphical user interface code generation translates visual designs into executab
 
 ### 1.2 Mobile Application
 
-Mobile code generation lacks the browser-like source-render-interaction loop available to web tasks. Current benchmarks and methods therefore rely on proxy signals from mockups, design-tool states, UI hierarchies, critiques, learned rewards, retrieval, and editable intermediate representations.
-
 1. [**Rico: A Mobile App Dataset for Building Data-Driven Design Applications**](https://dl.acm.org/doi/10.1145/3126594.3126651) *Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang Li, Jeffrey Nichols, Ranjitha Kumar.* UIST 2017.
 
 2. [**UICrit: Enhancing Automated Design Evaluation with a UICritique Dataset**](https://arxiv.org/abs/2407.08850) *Peitong Duan, Chin-Yi Cheng, Gang Li, Bjoern Hartmann, Yang Li.* UIST 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/google-research-datasets/uicrit)](https://github.com/google-research-datasets/uicrit)
@@ -245,8 +239,6 @@ Mobile code generation lacks the browser-like source-render-interaction loop ava
 11. [**CANVAS: A Benchmark for Vision-Language Models on Tool-Based User Interface Design**](https://arxiv.org/abs/2511.20737) *Daeheon Jeong, Seoyeon Byun, Kihoon Son, Dae Hyun Kim, Juho Kim.* Arxiv 2025.11.25 (AAAI 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/kixlab/CANVAS)](https://github.com/kixlab/CANVAS)
 
 ## 2. Scientific Visualization
-
-Scientific visualization code should make visual claims inspectable, not only render plausible artifacts. This chapter covers charts, structured documents, academic presentations, posters, and scientific demonstrations.
 
 <p align="center">
   <img src="assets/figures/scientific_visualizations.png" alt="Scientific visualization code generation tasks" width="90%">
@@ -513,8 +505,6 @@ Scientific visualization code should make visual claims inspectable, not only re
 
 ## 3. Structured Graphics
 
-Structured graphics move beyond pixel-level reproduction toward symbolic, editable, and executable visual programs. This chapter covers SVG for editable vector design, diagrams for logic and relation recovery, and CAD for parametric 3D geometry.
-
 <p align="center">
   <img src="assets/figures/structured_graphics.png" alt="Structured graphics generation tasks" width="90%">
 </p>
@@ -665,8 +655,6 @@ Structured graphics move beyond pixel-level reproduction toward symbolic, editab
 20. [**WorldCoder-Bench: Benchmarking Physically Grounded 3D World Synthesis**](https://arxiv.org/abs/2606.01869) *Shuo Lu, Yinuo Xu, Kecheng Yu, Siru Jiang, Yongcan Yu, Yubin Wang, Haitao Yang, Yuxiang Zhang, Bin Wang, Ran He, Jian Liang.* Arxiv 2026.06.01.
 
 ## 4. Frontier Tasks and Frameworks
-
-Frontier settings use code as an intermediate trace, repair interface, temporal scaffold, executable policy, or unified interface rather than only a final artifact to render.
 
 <p align="center">
   <img src="assets/figures/frontier_tasks.png" alt="Frontier multimodal code tasks" width="90%">
