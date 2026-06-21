@@ -220,7 +220,29 @@ Graphical user interface code generation translates visual designs into executab
 
 ### 1.2 Mobile Application
 
-1. **Rico: A mobile app dataset for building data-driven design applications** *Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang Li, Jeffrey Nichols, Ranjitha Kumar.* Proceedings of the 30th annual ACM symposium on user interface software and technology 2017.
+Mobile code generation lacks the browser-like source-render-interaction loop available to web tasks. Current benchmarks and methods therefore rely on proxy signals from mockups, design-tool states, UI hierarchies, critiques, learned rewards, retrieval, and editable intermediate representations.
+
+1. [**Rico: A Mobile App Dataset for Building Data-Driven Design Applications**](https://dl.acm.org/doi/10.1145/3126594.3126651) *Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang Li, Jeffrey Nichols, Ranjitha Kumar.* UIST 2017.
+
+2. [**UICrit: Enhancing Automated Design Evaluation with a UICritique Dataset**](https://arxiv.org/abs/2407.08850) *Peitong Duan, Chin-Yi Cheng, Gang Li, Bjoern Hartmann, Yang Li.* UIST 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/google-research-datasets/uicrit)](https://github.com/google-research-datasets/uicrit)
+
+3. [**UIClip: A Data-Driven Model for Assessing User Interface Design**](https://dl.acm.org/doi/10.1145/3654777.3676408) *Jason Wu, Yi-Hao Peng, Xin Yue Amanda Li, Amanda Swearngin, Jeffrey P. Bigham, Jeffrey Nichols.* UIST 2024.
+
+4. [**Bridging Design and Development with Automated Declarative UI Code Generation**](https://arxiv.org/abs/2409.11667) *Ting Zhou, Yanjie Zhao, Xinyi Hou, Xiaoyu Sun, Kai Chen, Haoyu Wang.* Arxiv 2024.9.16 (FSE 2025).
+
+5. [**Zero-Shot Prompting Approaches for LLM-Based Graphical User Interface Generation**](https://arxiv.org/abs/2412.11328) *Kristian Kolthoff, Felix Kretzer, Lennart Fiebig, Christian Bartelt, Alexander Maedche, Simone Paolo Ponzetto.* Arxiv 2024.12.15. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/ZSPromptingGUIGeneration/ZS-Prompting-Approaches-GUI-Generation)](https://github.com/ZSPromptingGUIGeneration/ZS-Prompting-Approaches-GUI-Generation)
+
+6. [**Towards Human-AI Synergy in UI Design: Enhancing Multi-Agent Based UI Generation with Intent Clarification and Alignment**](https://arxiv.org/abs/2412.20071) *Mingyue Yuan, Jieshan Chen, Yongquan Hu, Sidong Feng, Mulong Xie, Gelareh Mohammadi, Zhenchang Xing, Aaron Quigley.* Arxiv 2024.12.28.
+
+7. [**UIOrchestra: Generating High-Fidelity Code from UI Designs with a Multi-agent System**](https://aclanthology.org/2025.findings-emnlp.150/) *Chuhuai Yue, Jiajun Chai, Yufei Zhang, Zixiang Ding, Xihao Liang, Peixin Wang, Shihai Chen, Yixuan Wang, Guojun Yin, Wei Lin, et al.* EMNLP 2025 Findings.
+
+8. [**DesignCoder: Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models**](https://arxiv.org/abs/2506.13663) *Yunnong Chen, Shixian Ding, Yingying Zhang, Wenkai Chen, Jinzhou Du, Lingyun Sun, Liuqing Chen.* Arxiv 2025.6.16.
+
+9. [**Generative Interfaces for Language Models**](https://arxiv.org/abs/2508.19227) *Jiaqi Chen, Yanzhe Zhang, Yutong Zhang, Yijia Shao, Diyi Yang.* Arxiv 2025.8.26. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SALT-NLP/GenUI)](https://github.com/SALT-NLP/GenUI)
+
+10. [**UI-UG: A Unified MLLM for UI Understanding and Generation**](https://arxiv.org/abs/2509.24361) *Hao Yang, Weijie Qiu, Ru Zhang, Zhou Fang, Ruichao Mao, Xiaoyu Lin, Maji Huang, Zhaosong Huang, Teng Guo, Shuoyang Liu, et al.* Arxiv 2025.9.29. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/afx-team/UI-UG)](https://github.com/afx-team/UI-UG)
+
+11. [**CANVAS: A Benchmark for Vision-Language Models on Tool-Based User Interface Design**](https://arxiv.org/abs/2511.20737) *Daeheon Jeong, Seoyeon Byun, Kihoon Son, Dae Hyun Kim, Juho Kim.* Arxiv 2025.11.25 (AAAI 2026). &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/kixlab/CANVAS)](https://github.com/kixlab/CANVAS)
 
 ## 2. Scientific Visualization
 
